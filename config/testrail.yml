@@ -1,0 +1,5 @@
+# host: testrail.whatever.net.au
+host: qebootcampui2021.testrail.io
+project:
+  # name: Project Name
+  name: QE-Bootcamp-UI-2021
